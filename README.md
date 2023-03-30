@@ -12,4 +12,4 @@ parameterize perimeter options
 
 parameterize material-saving options
 
-maybe alter the routine to only emboss the perimeter, while saving material, when creating multi-line signs
+maybe alter the routine to only emboss the perimeter while saving material, when creating multi-line signs
