@@ -30,5 +30,5 @@ module signPost() {
 // combine both bodies
 union() {
 	signBody();
-	translate([0,-(len(signText)+2)*textSize-3]) signPost();
+	translate([0,-(len(signText)+2)*textSize-3]) signPost(); // offset -3
 }
