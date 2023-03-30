@@ -2,8 +2,8 @@ $fn = $preview ? 32 : 64; // reduce for potato
 
 // parameters
 signFont = "Major Snafu:style=Regular"; // don't forget to input an installed font
-signText = ["Paccino"]; 				// ["your","text","here"]
-textSize = 19;							// if you change this you have to fiddle with the offsets (todo)
+signText = ["Paccino"]; // ["your","text","here"]
+textSize = 19; // if you change this you have to fiddle with the offsets (todo)
 
 // build the sign
 module signBody() {
